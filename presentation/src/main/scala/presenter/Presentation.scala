@@ -12,7 +12,8 @@ object Presentation {
 
   @JSExport
   def main(): Unit = {
-    svgData.onclick = ((mouseEvent: dom.MouseEvent) => nextAction())
+    svgData.onmousedown = (action _)
+    svgDocument.oncontextmenu = (mouseEvent: dom.MouseEvent) => false
   }
 
   val actions = Array(PanAndZoom("rect3095"), PanAndZoom("rect3095-1"), PanAndZoom("rect3095-1-7"), PanAndZoom("rect3095-1-7-1"), PanAndZoom("rect3095-7"))
@@ -23,11 +24,27 @@ object Presentation {
   var currentY: js.Number = 0
   var timerFunction: Any = null
 
+  def action(event: dom.MouseEvent) = {
+    if (event.button == 0)
+      nextAction()
+    else if (event.button == 2)
+      previousAction()
+    false
+  }
+
   def nextAction() = {
     actions(currentAction).act()
     currentAction += 1
     if (currentAction >= actions.length)
       currentAction = 0
+  }
+
+  def previousAction() = {
+    if (currentAction <= 0)
+      currentAction = actions.size -1
+    else
+      currentAction -= 1
+    actions(currentAction-1).act()
   }
 
   def startAnimation() = {
