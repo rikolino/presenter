@@ -12,16 +12,23 @@ object Presentation {
 
   @JSExport
   def main(): Unit = {
-    svgData.onclick = ((mouseEvent: dom.MouseEvent) => showElementWithId("rect3095"))
+    svgData.onclick = ((mouseEvent: dom.MouseEvent) => nextAction())
   }
 
-  val actions = Array(PanAndZoom(null), FadeAndSlide(null, null))
+  val actions = Array(PanAndZoom("rect3095"), PanAndZoom("rect3095-1"), PanAndZoom("rect3095-1-7"), PanAndZoom("rect3095-1-7-1"), PanAndZoom("rect3095-7"))
 
   var currentAction = 0
 
   var currentX: js.Number = 0
   var currentY: js.Number = 0
   var timerFunction: Any = null
+
+  def nextAction() = {
+    actions(currentAction).act()
+    currentAction += 1
+    if (currentAction >= actions.length)
+      currentAction = 0
+  }
 
   def startAnimation() = {
     currentX = 200
@@ -42,15 +49,27 @@ object Presentation {
 
   def showElementWithId(id: String) = {
     val elem = svgDocument.getElementById(id)
+    if (elem == null) dom.alert(s"no elem with id $id!")
+    svgData.setAttribute("viewBox", s"0 0 1024 768")
     val box = elem.getBoundingClientRect()
+    //dom.alert(s"${box.left} ${box.top} ${box.width} ${box.height}")
     svgData.setAttribute("viewBox", s"${box.left} ${box.top} ${box.width} ${box.height}")
   }
+
+  trait Action {
+    def act(): Unit
+    def undo(): Unit = ???
+  }
+
+  case class PanAndZoom(id: String) extends Action {
+    def act(): Unit = showElementWithId(id)
+  }
+  case class FadeAndSlide(oldElement: dom.HTMLElement, newElement: dom.Element) extends Action {
+    def act(): Unit = ???
+  }
+
 }
 
-trait Action {
-  def act(): Unit = ???
-  def undo(): Unit = ???
-}
 
-case class PanAndZoom(toElement: dom.HTMLElement) extends Action
-case class FadeAndSlide(oldElement: dom.HTMLElement, newElement: dom.Element) extends Action
+
+
