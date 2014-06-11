@@ -12,7 +12,7 @@ object Presentation {
 
   @JSExport
   def main(): Unit = {
-    svgData.onclick = ((mouseEvent: dom.MouseEvent) => startAnimation)
+    svgData.onclick = ((mouseEvent: dom.MouseEvent) => showElementWithId("rect3095"))
   }
 
   val actions = Array(PanAndZoom(null), FadeAndSlide(null, null))
@@ -28,16 +28,22 @@ object Presentation {
     currentY = 200
     if (timerFunction == null) {
       timerFunction = dom.setInterval(() =>
-        moveViewBox(svgData, 200, 200, 150, 150), 10)
+        moveViewBox(200, 200, 150, 150), 10)
     }
   }
 
-  def moveViewBox(svg: dom.SVGElement, fromX: js.Number, fromY: js.Number, toX: js.Number, toY: js.Number) = {
+  def moveViewBox(fromX: js.Number, fromY: js.Number, toX: js.Number, toY: js.Number) = {
     if (currentX > toX || currentY > toY) {
       currentX = currentX - 1
       currentY = currentY - 1
-      svg.setAttribute("viewBox", "" + currentX + " " + currentY + " 1920 1200")
+      svgData.setAttribute("viewBox", "" + currentX + " " + currentY + " 1920 1200")
     }
+  }
+
+  def showElementWithId(id: String) = {
+    val elem = svgDocument.getElementById(id)
+    val box = elem.getBoundingClientRect()
+    svgData.setAttribute("viewBox", s"${box.left} ${box.top} ${box.width} ${box.height}")
   }
 }
 
