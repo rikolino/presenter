@@ -9,8 +9,6 @@ object Build extends sbt.Build {
   ).settings(
     name := "presentation",
     scalaVersion := "2.11.1",
-    libraryDependencies += "org.scala-lang.modules.scalajs" %%% "scalajs-dom" % "0.5",
-    libraryDependencies += "org.scala-lang.modules.scalajs" %%% "scalajs-jquery" % "0.5",
-    libraryDependencies += "org.scala-lang.modules.scalajs" %% "scalajs-jasmine-test-framework" % scalaJSVersion % "test"
+    libraryDependencies += "org.scala-lang.modules.scalajs" %%% "scalajs-dom" % "0.6"
   )
 }
