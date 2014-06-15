@@ -29,21 +29,33 @@ object Presentation {
     PanAndZoom("rect3095-3"),
     PanAndZoom("rect3095-1"),
     PanAndZoom("rect3095-1-7"),
-    PanAndZoom("rect3095-1-7-1"),
-   // PanAndZoom("rect3095-1-7-1-7"),
-
     PanAndZoom("svg2"),
+
+    //PanAndZoom("rect3095-1-7"), // Unit Insertion
+    FadeAndSlide("g3553", "g3561", 1),
+    FadeAndSlide("g3561", "g3569", 2),
+    FadeAndSlide("g3569", "g3577", 3),
+
+    //PanAndZoom("rect3095-1-7-1"), // Procedures
+    FadeAndSlide("g3609", "g3601", 1),
+    FadeAndSlide("g3601", "g3593", 2),
+    FadeAndSlide("g3593", "g3585", 3),
+
+    //PanAndZoom("rect3095-1-7-1-7"), // Constant Inlining
     FadeAndSlide("g3333", "g3338", 1),
     FadeAndSlide("g3338", "g3343", 2),
     FadeAndSlide("g3343", "g3348", 3),
-    //PanAndZoom("rect3095-1-7-1-7-4"),
+
+    //PanAndZoom("rect3095-1-7-1-7-4"), // Lossy Implicits
     FadeAndSlide("g3424", "g3432", 1),
     FadeAndSlide("g3432", "g3440", 2),
     FadeAndSlide("g3440", "g3448", 3),
-    //PanAndZoom("rect3095-1-7-1-7-6"),
+
+    //PanAndZoom("rect3095-1-7-1-7-6"), // Avian
     FadeAndSlide("g3456", "g3464", 1),
     FadeAndSlide("g3464", "g3472", 2),
     FadeAndSlide("g3472", "g3480", 3),
+
     PanAndZoom("rect3095-7"),
     PanAndZoom("rect3095-7-6"),
     PanAndZoom("svg2"))
