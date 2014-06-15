@@ -276,17 +276,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.34"
-     inkscape:cx="870.8517"
-     inkscape:cy="415.85421"
+     inkscape:zoom="5.36"
+     inkscape:cx="448.14774"
+     inkscape:cy="544.11366"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-global="true"
      showguides="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="851"
-     inkscape:window-x="0"
+     inkscape:window-width="1740"
+     inkscape:window-height="1176"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showborder="true">
@@ -377,15 +377,15 @@
        y="249.72437" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Pacifico;-inkscape-font-specification:Pacifico"
-       x="165"
-       y="299.72437"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eveleth Slant;-inkscape-font-specification:Eveleth Slant Light"
+       x="149.88806"
+       y="299.16467"
        id="text3097"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3099"
-         x="165"
-         y="299.72437">Welcome!</tspan></text>
+         x="149.88806"
+         y="299.16467">Welcome!</tspan></text>
     <path
        style="fill:#19aacf;stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
        d="m 298.75,535.22438 0,-80 2,0 0,80 z"
@@ -410,7 +410,7 @@
        y="534.72437" />
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Pacifico;-inkscape-font-specification:Pacifico"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eveleth Slant;-inkscape-font-specification:Eveleth Slant Light"
        x="260"
        y="559.72437"
        id="text3097-1"
@@ -421,19 +421,23 @@
          id="tspan3198">Simplifying Scala</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Pacifico;-inkscape-font-specification:Pacifico"
-       x="270"
-       y="579.72437"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth"
+       x="260"
+       y="589.72437"
        id="text3206"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3208"
-         x="270"
-         y="579.72437">The Past, </tspan><tspan
+         x="260"
+         y="589.72437"
+         id="tspan3210">The Past</tspan><tspan
          sodipodi:role="line"
-         x="270"
-         y="590.97437"
-         id="tspan3210">Present &amp; Future</tspan></text>
+         x="260"
+         y="599.72437"
+         id="tspan3201">Present          Future</tspan><tspan
+         sodipodi:role="line"
+         x="260"
+         y="609.72437"
+         id="tspan3194" /></text>
     <path
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1"
@@ -466,16 +470,9 @@
        height="90"
        x="400"
        y="534.72437" />
-    <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect3113"
-       width="90"
-       height="40"
-       x="405.60339"
-       y="558.99622" />
     <text
        xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
        x="405"
        y="549.72437"
        id="text3097-1-2"
@@ -484,6 +481,13 @@
          x="405"
          y="549.72437"
          id="tspan3198-6">()-Insertion</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3113-6-9"
+       width="110"
+       height="60"
+       x="405"
+       y="559.72437" />
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Azuro;-inkscape-font-specification:Azuro"
@@ -635,7 +639,7 @@
        y="249.72437" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Pacifico;-inkscape-font-specification:Pacifico"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eveleth Slant;-inkscape-font-specification:Eveleth Slant Light"
        x="770"
        y="269.72437"
        id="text3097-3"
@@ -915,7 +919,7 @@
        sodipodi:cy="327.18362"
        sodipodi:rx="5"
        sodipodi:ry="5"
-       d="m 271.25,327.18362 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       d="m 271.25,327.18362 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
        transform="translate(685,77.540733)" />
     <path
        style="fill:#e35758;stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
@@ -930,7 +934,7 @@
        sodipodi:cy="327.18362"
        sodipodi:rx="4"
        sodipodi:ry="4"
-       d="m 270.25,327.18362 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
+       d="m 270.25,327.18362 c 0,2.20914 -1.79086,4 -4,4 -2.20914,0 -4,-1.79086 -4,-4 0,-2.20913 1.79086,-4 4,-4 2.20914,0 4,1.79087 4,4 z"
        transform="translate(685,77.540733)" />
     <rect
        style="fill:#e35758;fill-opacity:1"
@@ -941,14 +945,14 @@
        y="249.72437" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Pacifico;-inkscape-font-specification:Pacifico"
-       x="930"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth Light"
+       x="915"
        y="299.72437"
        id="text3097-3-1-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3099-3-6-8"
-         x="930"
+         x="915"
          y="299.72437">Questions?</tspan></text>
     <g
        transform="matrix(0.06702478,0,0,0.06702478,831.98314,288.79255)"
@@ -1036,18 +1040,18 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Pacifico;-inkscape-font-specification:Pacifico"
-       x="785"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth Light"
+       x="775"
        y="304.72437"
        id="text3097-3-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3099-3-0"
-         x="785"
+         x="775"
          y="304.72437">Proudly </tspan><tspan
          sodipodi:role="line"
-         x="785"
-         y="317.22437"
+         x="775"
+         y="314.72437"
          id="tspan3262">made with</tspan></text>
     <path
        sodipodi:type="arc"
@@ -1057,7 +1061,7 @@
        sodipodi:cy="327.18362"
        sodipodi:rx="5"
        sodipodi:ry="5"
-       d="m 271.25,327.18362 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       d="m 271.25,327.18362 c 0,2.76143 -2.23858,5 -5,5 -2.76142,0 -5,-2.23857 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
        transform="translate(126.5,77.540741)" />
     <path
        style="fill:#e35758;stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
@@ -1072,7 +1076,7 @@
        sodipodi:cy="327.18362"
        sodipodi:rx="4"
        sodipodi:ry="4"
-       d="m 270.25,327.18362 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
+       d="m 270.25,327.18362 c 0,2.20914 -1.79086,4 -4,4 -2.20914,0 -4,-1.79086 -4,-4 0,-2.20913 1.79086,-4 4,-4 2.20914,0 4,1.79087 4,4 z"
        transform="translate(126.5,77.540741)" />
     <rect
        style="fill:#e35758;fill-opacity:1"
@@ -1083,36 +1087,16 @@
        y="249.72438" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Pacifico;-inkscape-font-specification:Pacifico"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy"
        x="345"
        y="269.72437"
        id="text3097-33"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3099-0"
          x="345"
          y="269.72437"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Pacifico;-inkscape-font-specification:Pacifico">Hi.</tspan><tspan
-         sodipodi:role="line"
-         x="345"
-         y="283.47437"
-         id="tspan3297"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Pacifico;-inkscape-font-specification:Pacifico">I'm Simon,</tspan><tspan
-         sodipodi:role="line"
-         x="345"
-         y="297.22437"
-         id="tspan3299"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Pacifico;-inkscape-font-specification:Pacifico">and I have been</tspan><tspan
-         sodipodi:role="line"
-         x="345"
-         y="310.97437"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Pacifico;-inkscape-font-specification:Pacifico"
-         id="tspan3311">working a bit on Scala</tspan><tspan
-         sodipodi:role="line"
-         x="345"
-         y="324.72437"
-         id="tspan3301"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Pacifico;-inkscape-font-specification:Pacifico">for the last two years.</tspan></text>
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy"
+         id="tspan3188">Hi!</tspan></text>
     <g
        id="g3424">
       <rect
@@ -1281,5 +1265,123 @@
            x="1020"
            sodipodi:role="line">#3</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth"
+       x="305"
+       y="599.72437"
+       id="text3196"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3199"
+         x="305"
+         y="599.72437">&amp; </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy"
+       x="345"
+       y="284.72437"
+       id="text3097-33-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="345"
+         y="284.72437"
+         id="tspan3297-1"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy">I'm            ,</tspan><tspan
+         sodipodi:role="line"
+         x="345"
+         y="295.97437"
+         id="tspan3299-9"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy">and I have</tspan><tspan
+         sodipodi:role="line"
+         x="345"
+         y="307.22437"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy"
+         id="tspan3311-0">Worked on Scala</tspan><tspan
+         sodipodi:role="line"
+         x="345"
+         y="318.47437"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy"
+         id="tspan3188-6">for A Few years.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy"
+       x="362"
+       y="284.72437"
+       id="text3203"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3205"
+         x="362"
+         y="284.72437">SIMON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth Ultra-Bold"
+       x="149.5"
+       y="298.72437"
+       id="text3097-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3099-5"
+         x="149.5"
+         y="298.72437">Welcome!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.04302406px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth Ultra-Bold"
+       x="258.25311"
+       y="562.05042"
+       id="text3097-1-6"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0047804,0.99524234)"><tspan
+         sodipodi:role="line"
+         x="258.25311"
+         y="562.05042"
+         id="tspan3198-3">Simpli</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.04302406px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth Ultra-Bold"
+       x="291.28085"
+       y="562.05945"
+       id="text3097-1-6-8"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0047804,0.99524234)"><tspan
+         sodipodi:role="line"
+         x="291.28085"
+         y="562.05945"
+         id="tspan3198-3-9">Fying</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.04302406px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth Ultra-Bold"
+       x="324.78506"
+       y="562.04138"
+       id="text3097-1-6-7"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0047804,0.99524234)"><tspan
+         sodipodi:role="line"
+         x="324.78506"
+         y="562.04138"
+         id="tspan3198-3-5">Scala</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth Ultra-Bold"
+       x="769.5"
+       y="269.22437"
+       id="text3097-3-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3099-3-3"
+         x="769.5"
+         y="269.22437">Thanks!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth Ultra-Bold"
+       x="914.5"
+       y="299.22437"
+       id="text3097-3-1-1-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3099-3-6-8-9"
+         x="914.5"
+         y="299.22437">Questions?</tspan></text>
   </g>
 </svg>
