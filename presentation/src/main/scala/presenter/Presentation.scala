@@ -25,22 +25,53 @@ object Presentation {
   }
 
   val actions = Array(
+    PanAndZoom("ARROW"),
     PanAndZoom("TITLE"),
     PanAndZoom("WELCOME"),
     PanAndZoom("ME"),
     PanAndZoom("GOAL"),
     PanAndZoom("MOTIVATION"),
+    PanAndZoom("FALLACIES"),
+    PanAndZoom("APPROACH"),
+
+    PanAndZoom("PAST"),
+    PanAndZoom("PASTPRESENT"),
 
     PanAndZoom("ARROW"),
-    //PanAndZoom("UI"), // Unit Insertion
-    FadeAndSlide("UI-0", "UI-1", 1),
-    FadeAndSlide("UI-1", "UI-2", 2),
-    FadeAndSlide("UI-2", "UI-3", 3),
+    PanAndZoom("UI"),
+    FadeAndSlideDown("UI-0", "UI-1", 1),
+    FadeAndSlideDown("UI-1", "UI-2", 2),
+    FadeAndSlideDown("UI-2", "UI-3", 3),
+
+    PanAndZoom("PASTPRESENT"),
+
+    PanAndZoom("FP"),
+    FadeAndSlideDown("FP-0", "FP-1", 1),
+    FadeAndSlideDown("FP-1", "FP-2", 2),
+    //FadeAndSlideDown("FP-2", "FP-3", 3),
+
+        PanAndZoom("PASTPRESENT"),
+
+    PanAndZoom("OL"),
+    FadeAndSlideDown("OL-0", "OL-1", 1),
+    FadeAndSlideDown("OL-1", "OL-2", 2),
+    //FadeAndSlideDown("FP-2", "FP-3", 3),
+    
+    PanAndZoom("PASTPRESENT"),
+
+    PanAndZoom("PRESENT"),
+    PanAndZoom("FUTURE"),
+
+    PanAndZoom("THANKS"),
+    PanAndZoom("QUESTIONS"),
+    PanAndZoom("END"),
 
     //PanAndZoom("rect3095-1-7-1"), // Procedures
     FadeAndSlide("g3609", "g3601", 1),
     FadeAndSlide("g3601", "g3593", 2),
     FadeAndSlide("g3593", "g3585", 3),
+
+    // View Bounds
 
     //PanAndZoom("rect3095-1-7-1-7"), // Constant Inlining
     FadeAndSlide("g3333", "g3338", 1),
@@ -130,8 +161,21 @@ object Presentation {
     def act(): Unit = {
       val oldElement = svgDocument.getElementById(oldElementId)
       val newElement = svgDocument.getElementById(newElementId)
-      val oldElementMove = numberOfSlide * -90
+      //val oldElementMove = numberOfSlide * -90
       val newElementMove = numberOfSlide * -70
+
+      //oldElement.setAttribute("transform", s" translate(0,$oldElementMove)")
+      oldElement.setAttribute("visibility", "hidden");
+      newElement.setAttribute("transform", s" translate(0,$newElementMove)")
+    }
+  }
+
+  case class FadeAndSlideDown(oldElementId: String, newElementId: String, numberOfSlide: Int) extends Action {
+    def act(): Unit = {
+      val oldElement = svgDocument.getElementById(oldElementId)
+      val newElement = svgDocument.getElementById(newElementId)
+      //val oldElementMove = numberOfSlide * -90
+      val newElementMove = (numberOfSlide * 70) + 20
 
       //oldElement.setAttribute("transform", s" translate(0,$oldElementMove)")
       oldElement.setAttribute("visibility", "hidden");
