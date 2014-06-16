@@ -25,16 +25,17 @@ object Presentation {
   }
 
   val actions = Array(
-    PanAndZoom("rect3095"),
-    PanAndZoom("rect3095-3"),
-    PanAndZoom("rect3095-1"),
-    PanAndZoom("rect3095-1-7"),
-    PanAndZoom("svg2"),
+    PanAndZoom("TITLE"),
+    PanAndZoom("WELCOME"),
+    PanAndZoom("ME"),
+    PanAndZoom("GOAL"),
+    PanAndZoom("MOTIVATION"),
 
-    //PanAndZoom("rect3095-1-7"), // Unit Insertion
-    FadeAndSlide("g3553", "g3561", 1),
-    FadeAndSlide("g3561", "g3569", 2),
-    FadeAndSlide("g3569", "g3577", 3),
+    PanAndZoom("ARROW"),
+    //PanAndZoom("UI"), // Unit Insertion
+    FadeAndSlide("UI-0", "UI-1", 1),
+    FadeAndSlide("UI-1", "UI-2", 2),
+    FadeAndSlide("UI-2", "UI-3", 3),
 
     //PanAndZoom("rect3095-1-7-1"), // Procedures
     FadeAndSlide("g3609", "g3601", 1),
