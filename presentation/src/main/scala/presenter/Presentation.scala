@@ -33,34 +33,73 @@ object Presentation {
     PanAndZoom("MOTIVATION"),
     PanAndZoom("FALLACIES"),
     PanAndZoom("APPROACH"),
+    PanAndZoom("DISCLAIMER"),
 
     PanAndZoom("PAST"),
+    PanAndZoom("ARROW"),
+
     PanAndZoom("PASTPRESENT"),
 
-    PanAndZoom("ARROW"),
     PanAndZoom("UI"),
     FadeAndSlideDown("UI-0", "UI-1", 1),
     FadeAndSlideDown("UI-1", "UI-2", 2),
     FadeAndSlideDown("UI-2", "UI-3", 3),
+    FadeAndSlideDown("UI-3", "UI-4", 4),
+    FadeAndSlideDown("UI-4", "UI-5", 5),
 
     PanAndZoom("PASTPRESENT"),
 
     PanAndZoom("FP"),
+    //PanAndZoom("ARROW"),
+
     FadeAndSlideDown("FP-0", "FP-1", 1),
     FadeAndSlideDown("FP-1", "FP-2", 2),
-    //FadeAndSlideDown("FP-2", "FP-3", 3),
+    FadeAndSlideDown("FP-2", "FP-3", 3),
+    FadeAndSlideDown("FP-3", "FP-4", 4),
+    FadeAndSlideDown("FP-4", "FP-5", 5),
 
-        PanAndZoom("PASTPRESENT"),
+    PanAndZoom("PASTPRESENT"),
 
     PanAndZoom("OL"),
-    FadeAndSlideDown("OL-0", "OL-1", 1),
-    FadeAndSlideDown("OL-1", "OL-2", 2),
-    //FadeAndSlideDown("FP-2", "FP-3", 3),
+    FadeAndSlide("OL-0", "OL-1", 1),
+    FadeAndSlide("OL-1", "OL-2", 2),
+    FadeAndSlide("OL-2", "OL-3", 3),
+    FadeAndSlide("OL-3", "OL-4", 4),
+
+    PanAndZoom("PASTARROW"),
+
+    PanAndZoom("FC"),
+    FadeAndSlide("FC-0", "FC-1", 1),
+    FadeAndSlide("FC-1", "FC-2", 2),
+
+    PanAndZoom("PRESENT"),
     
     PanAndZoom("PASTPRESENT"),
 
-    PanAndZoom("PRESENT"),
+    PanAndZoom("PS"),
+    FadeAndSlideDown("PS-0", "PS-1", 1),
+    FadeAndSlideDown("PS-1", "PS-2", 2),
+    FadeAndSlideDown("PS-2", "PS-3", 3),
+    FadeAndSlideDown("PS-3", "PS-4", 4),
+    FadeAndSlideDown("PS-4", "PS-5", 5),
+    FadeAndSlideDown("PS-5", "PS-6", 6),
+    
+    PanAndZoom("PASTPRESENT"),
+
+    PanAndZoom("VB"),
+    FadeAndSlide("VB-0", "VB-1", 1),
+    FadeAndSlide("VB-1", "VB-2", 2),
+    FadeAndSlide("VB-2", "VB-3", 3),
+    FadeAndSlide("VB-3", "VB-4", 4),
+    FadeAndSlide("VB-4", "VB-5", 5),
+
     PanAndZoom("FUTURE"),
+    
+    PanAndZoom("TP"),
+    FadeAndSlide("TP-0", "TP-1", 1),
+    FadeAndSlide("TP-1", "TP-2", 2),
+    FadeAndSlide("TP-2", "TP-3", 3),
+
 
     PanAndZoom("THANKS"),
     PanAndZoom("QUESTIONS"),
@@ -160,7 +199,9 @@ object Presentation {
   case class FadeAndSlide(oldElementId: String, newElementId: String, numberOfSlide: Int) extends Action {
     def act(): Unit = {
       val oldElement = svgDocument.getElementById(oldElementId)
+      if (oldElement == null) dom.alert(s"no elem with id $oldElementId!")
       val newElement = svgDocument.getElementById(newElementId)
+      if (newElement == null) dom.alert(s"no elem with id $newElementId!")
       //val oldElementMove = numberOfSlide * -90
       val newElementMove = numberOfSlide * -70
 
@@ -173,7 +214,9 @@ object Presentation {
   case class FadeAndSlideDown(oldElementId: String, newElementId: String, numberOfSlide: Int) extends Action {
     def act(): Unit = {
       val oldElement = svgDocument.getElementById(oldElementId)
+      if (oldElement == null) dom.alert(s"no elem with id $oldElementId!")
       val newElement = svgDocument.getElementById(newElementId)
+      if (newElement == null) dom.alert(s"no elem with id $newElementId!")
       //val oldElementMove = numberOfSlide * -90
       val newElementMove = (numberOfSlide * 70) + 20
 
