@@ -676,16 +676,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.68"
-     inkscape:cx="1699.4853"
-     inkscape:cy="594.38504"
+     inkscape:zoom="1.34"
+     inkscape:cx="2209.9394"
+     inkscape:cy="696.61706"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="AV-2"
      showgrid="true"
      inkscape:snap-global="true"
      showguides="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="851"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -950,96 +950,32 @@
        sodipodi:ry="4"
        d="m 270.25,327.18362 c 0,2.20914 -1.79086,4 -4,4 -2.20914,0 -4,-1.79086 -4,-4 0,-2.20913 1.79086,-4 4,-4 2.20914,0 4,1.79087 4,4 z"
        transform="translate(938.75,124.72436)" />
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-6"
-       width="120"
-       height="90"
-       x="2680"
-       y="304.72437" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2685"
-       y="319.72437"
-       id="text3097-1-2-2-1-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2685"
+    <g
+       id="AV">
+      <rect
+         y="304.72437"
+         x="2260"
+         height="90"
+         width="120"
+         id="rect3095-1-7-1-7-6"
+         style="fill:#103a51;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-2-1-7"
          y="319.72437"
-         id="tspan3198-6-7-7-1">Avian</tspan></text>
-    <g
-       id="g4128"
-       transform="translate(1390,-230)">
-      <rect
-         y="554.72437"
-         x="1290"
-         height="70"
-         width="120"
-         id="rect3095-1-7-1-7-0-73"
-         style="fill:#103a51;fill-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3097-1-2-2-1-3-2-7-0"
-         y="594.72437"
-         x="1310"
+         x="2265"
          style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
          xml:space="preserve"><tspan
-           id="tspan3198-6-7-7-5-3-6-4"
-           y="594.72437"
-           x="1310"
-           sodipodi:role="line">#0</tspan></text>
+           id="tspan3198-6-7-7-1"
+           y="319.72437"
+           x="2265"
+           sodipodi:role="line">Avian VM</tspan></text>
     </g>
     <g
-       id="g4133"
-       transform="translate(1390,-230)">
+       id="AV-3">
       <rect
-         y="624.72437"
-         x="1290"
-         height="70"
-         width="120"
-         id="rect3095-1-7-1-7-0-7-5"
-         style="fill:#103a51;fill-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3097-1-2-2-1-3-2-9"
-         y="664.72437"
-         x="1310"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-         xml:space="preserve"><tspan
-           id="tspan3198-6-7-7-5-3-3"
-           y="664.72437"
-           x="1310"
-           sodipodi:role="line">#1</tspan></text>
-    </g>
-    <g
-       id="g4138"
-       transform="translate(1390,-230)">
-      <rect
-         y="694.72437"
-         x="1290"
-         height="70"
-         width="120"
-         id="rect3095-1-7-1-7-0-1-6"
-         style="fill:#103a51;fill-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3097-1-2-2-1-3-0-4"
-         y="734.72437"
-         x="1310"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-         xml:space="preserve"><tspan
-           id="tspan3198-6-7-7-5-5-3"
-           y="734.72437"
-           x="1310"
-           sodipodi:role="line">#2</tspan></text>
-    </g>
-    <g
-       id="g4143"
-       transform="translate(1390,-230)">
-      <rect
-         y="764.72437"
-         x="1290"
+         y="534.72437"
+         x="2260"
          height="70"
          width="120"
          id="rect3095-1-7-1-7-0-6-4"
@@ -1047,14 +983,25 @@
       <text
          sodipodi:linespacing="125%"
          id="text3097-1-2-2-1-3-3-6"
-         y="804.72437"
-         x="1310"
+         y="564.72437"
+         x="2270"
          style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
          xml:space="preserve"><tspan
            id="tspan3198-6-7-7-5-7-4"
-           y="804.72437"
-           x="1310"
-           sodipodi:role="line">#3</tspan></text>
+           y="564.72437"
+           x="2270"
+           sodipodi:role="line">Try it!</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-2-1-3-3-6-2"
+         y="579.72437"
+         x="2270"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan3198-6-7-7-5-7-4-9"
+           y="579.72437"
+           x="2270"
+           sodipodi:role="line">github.com/ReadyTalk/avian</tspan></text>
     </g>
     <rect
        style="fill:#e35758;fill-opacity:1"
@@ -1749,366 +1696,48 @@
            x="1705"
            sodipodi:role="line">Tuples vs. Parameters</tspan></text>
     </g>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-3-7-1-8-3"
-       width="120"
-       height="90"
-       x="1840"
-       y="304.72437" />
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-9-0-3-7-1-2"
-       width="120"
-       height="70"
-       x="1840"
-       y="324.72433" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="1860"
-       y="364.72433"
-       id="text3097-1-2-2-1-3-2-7-05-5-3-1-9-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1860"
-         y="364.72433"
-         id="tspan3198-6-7-7-5-3-6-0-7-7-1-7-8">#0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="1845"
-       y="319.72437"
-       id="text3097-1-2-0-6-5-9-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1845"
+    <g
+       id="EN">
+      <rect
+         y="304.72437"
+         x="1980"
+         height="90"
+         width="120"
+         id="rect3095-1-7-3-7-1-8-3"
+         style="fill:#103a51;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-0-6-5-9-9"
          y="319.72437"
-         id="tspan3198-6-2-1-3-9-6">Enumerations</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-7-9-6-0-5-8-6"
-       width="120"
-       height="70"
-       x="1840"
-       y="394.72433" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="1860"
-       y="434.72433"
-       id="text3097-1-2-2-1-3-2-1-7-6-2-0-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1860"
-         y="434.72433"
-         id="tspan3198-6-7-7-5-3-9-4-5-5-7-9">#1</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-1-0-4-1-5-3-4"
-       width="120"
-       height="70"
-       x="1840"
-       y="464.72433" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="1860"
-       y="504.72433"
-       id="text3097-1-2-2-1-3-0-27-6-2-6-1-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1860"
-         y="504.72433"
-         id="tspan3198-6-7-7-5-5-2-7-3-1-5-7">#2</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-6-7-9-6-8-2-9"
-       width="120"
-       height="70"
-       x="1840"
-       y="534.72437" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="1860"
-       y="574.7243"
-       id="text3097-1-2-2-1-3-3-44-6-9-7-2-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1860"
-         y="574.7243"
-         id="tspan3198-6-7-7-5-7-8-3-3-8-9-5">#3</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-3-7-1-8-2"
-       width="120"
-       height="90"
-       x="1980"
-       y="304.72437" />
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-9-0-3-7-1-9"
-       width="120"
-       height="70"
-       x="1980"
-       y="324.72433" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2000"
-       y="364.72433"
-       id="text3097-1-2-2-1-3-2-7-05-5-3-1-9-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2000"
-         y="364.72433"
-         id="tspan3198-6-7-7-5-3-6-0-7-7-1-7-82">#0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="1985"
-       y="319.72437"
-       id="text3097-1-2-0-6-5-9-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
          x="1985"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan3198-6-2-1-3-9-6"
+           y="319.72437"
+           x="1985"
+           sodipodi:role="line">Enumerations</tspan></text>
+    </g>
+    <g
+       id="DI">
+      <rect
+         y="304.72437"
+         x="2120"
+         height="90"
+         width="120"
+         id="rect3095-1-7-3-7-1-8-2"
+         style="fill:#103a51;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-0-6-5-9-2"
          y="319.72437"
-         id="tspan3198-6-2-1-3-9-2">Default Imports</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-7-9-6-0-5-8-4"
-       width="120"
-       height="70"
-       x="1980"
-       y="394.72433" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2000"
-       y="434.72433"
-       id="text3097-1-2-2-1-3-2-1-7-6-2-0-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2000"
-         y="434.72433"
-         id="tspan3198-6-7-7-5-3-9-4-5-5-7-0">#1</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-1-0-4-1-5-3-6"
-       width="120"
-       height="70"
-       x="1980"
-       y="464.72433" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2000"
-       y="504.72433"
-       id="text3097-1-2-2-1-3-0-27-6-2-6-1-03"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2000"
-         y="504.72433"
-         id="tspan3198-6-7-7-5-5-2-7-3-1-5-77">#2</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-6-7-9-6-8-2-3"
-       width="120"
-       height="70"
-       x="1980"
-       y="534.72437" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2000"
-       y="574.7243"
-       id="text3097-1-2-2-1-3-3-44-6-9-7-2-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2000"
-         y="574.7243"
-         id="tspan3198-6-7-7-5-7-8-3-3-8-9-7">#3</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-3-7-1-8-0"
-       width="120"
-       height="90"
-       x="2120"
-       y="304.72437" />
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-9-0-3-7-1-7"
-       width="120"
-       height="70"
-       x="2120"
-       y="324.72433" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2140"
-       y="364.72433"
-       id="text3097-1-2-2-1-3-2-7-05-5-3-1-9-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2140"
-         y="364.72433"
-         id="tspan3198-6-7-7-5-3-6-0-7-7-1-7-6">#0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2125"
-       y="319.72437"
-       id="text3097-1-2-0-6-5-9-90"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
          x="2125"
-         y="319.72437"
-         id="tspan3198-6-2-1-3-9-1">Generic Class Literals</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-7-9-6-0-5-8-9"
-       width="120"
-       height="70"
-       x="2120"
-       y="394.72433" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2140"
-       y="434.72433"
-       id="text3097-1-2-2-1-3-2-1-7-6-2-0-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2140"
-         y="434.72433"
-         id="tspan3198-6-7-7-5-3-9-4-5-5-7-3">#1</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-1-0-4-1-5-3-8"
-       width="120"
-       height="70"
-       x="2120"
-       y="464.72433" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2140"
-       y="504.72433"
-       id="text3097-1-2-2-1-3-0-27-6-2-6-1-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2140"
-         y="504.72433"
-         id="tspan3198-6-7-7-5-5-2-7-3-1-5-0">#2</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-6-7-9-6-8-2-2"
-       width="120"
-       height="70"
-       x="2120"
-       y="534.72437" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2140"
-       y="574.7243"
-       id="text3097-1-2-2-1-3-3-44-6-9-7-2-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2140"
-         y="574.7243"
-         id="tspan3198-6-7-7-5-7-8-3-3-8-9-4">#3</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-3-7-1-8-29"
-       width="120"
-       height="90"
-       x="2260"
-       y="304.7244" />
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-9-0-3-7-1-4"
-       width="120"
-       height="70"
-       x="2260"
-       y="324.72437" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2280"
-       y="364.72437"
-       id="text3097-1-2-2-1-3-2-7-05-5-3-1-9-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2280"
-         y="364.72437"
-         id="tspan3198-6-7-7-5-3-6-0-7-7-1-7-1">#0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2265"
-       y="319.7244"
-       id="text3097-1-2-0-6-5-9-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2265"
-         y="319.7244"
-         id="tspan3198-6-2-1-3-9-8">Non-eager Collections</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-7-9-6-0-5-8-7"
-       width="120"
-       height="70"
-       x="2260"
-       y="394.72437" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2280"
-       y="434.72437"
-       id="text3097-1-2-2-1-3-2-1-7-6-2-0-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2280"
-         y="434.72437"
-         id="tspan3198-6-7-7-5-3-9-4-5-5-7-7">#1</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-1-0-4-1-5-3-48"
-       width="120"
-       height="70"
-       x="2260"
-       y="464.72437" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2280"
-       y="504.72437"
-       id="text3097-1-2-2-1-3-0-27-6-2-6-1-53"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2280"
-         y="504.72437"
-         id="tspan3198-6-7-7-5-5-2-7-3-1-5-06">#2</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0-6-7-9-6-8-2-96"
-       width="120"
-       height="70"
-       x="2260"
-       y="534.72437" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2280"
-       y="574.72437"
-       id="text3097-1-2-2-1-3-3-44-6-9-7-2-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2280"
-         y="574.72437"
-         id="tspan3198-6-7-7-5-7-8-3-3-8-9-74">#3</tspan></text>
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan3198-6-2-1-3-9-2"
+           y="319.72437"
+           x="2125"
+           sodipodi:role="line">Default Imports</tspan></text>
+    </g>
     <g
        id="UI-1">
       <g
@@ -3104,214 +2733,34 @@
          id="tspan6099"
          x="310.00031"
          y="-94.026077" /></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7"
-       width="120"
-       height="90"
-       x="2400"
-       y="304.72437" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2405"
-       y="319.72437"
-       id="text3097-1-2-2-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2405"
+    <g
+       id="LI">
+      <rect
+         y="304.72437"
+         x="1840"
+         height="90"
+         width="120"
+         id="rect3095-1-7-1-7-4"
+         style="fill:#103a51;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-2-1-3"
          y="319.72437"
-         id="tspan3198-6-7-7">Constant Inlining</tspan></text>
+         x="1845"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan3198-6-7-7-5"
+           y="319.72437"
+           x="1845"
+           sodipodi:role="line">Lossy Implicits</tspan></text>
+    </g>
     <rect
        style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-4"
-       width="120"
-       height="90"
-       x="2540"
-       y="304.72437" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2545"
-       y="319.72437"
-       id="text3097-1-2-2-1-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2545"
-         y="319.72437"
-         id="tspan3198-6-7-7-5">Lossy Implicits</tspan></text>
-    <rect
-       style="fill:#103a51;fill-opacity:1"
-       id="rect3095-1-7-1-7-0"
+       id="rect3095-1-7-1-7-0-71"
        width="120"
        height="70"
-       x="2400"
+       x="1840"
        y="324.72437" />
-    <text
-       xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       x="2420"
-       y="364.72437"
-       id="text3097-1-2-2-1-3-2-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2420"
-         y="364.72437"
-         id="tspan3198-6-7-7-5-3-6">#0</tspan></text>
-    <g
-       id="g4063"
-       transform="translate(1410,-230)">
-      <rect
-         y="624.72437"
-         x="990"
-         height="70"
-         width="120"
-         id="rect3095-1-7-1-7-0-7"
-         style="fill:#103a51;fill-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3097-1-2-2-1-3-2"
-         y="664.72437"
-         x="1010"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-         xml:space="preserve"><tspan
-           id="tspan3198-6-7-7-5-3"
-           y="664.72437"
-           x="1010"
-           sodipodi:role="line">#1</tspan></text>
-    </g>
-    <g
-       id="g4071"
-       transform="translate(1410,-230)">
-      <rect
-         y="694.72437"
-         x="990"
-         height="70"
-         width="120"
-         id="rect3095-1-7-1-7-0-1"
-         style="fill:#103a51;fill-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3097-1-2-2-1-3-0"
-         y="734.72437"
-         x="1010"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-         xml:space="preserve"><tspan
-           id="tspan3198-6-7-7-5-5"
-           y="734.72437"
-           x="1010"
-           sodipodi:role="line">#2</tspan></text>
-    </g>
-    <g
-       id="g4079"
-       transform="translate(1410,-230)">
-      <rect
-         y="764.72437"
-         x="990"
-         height="70"
-         width="120"
-         id="rect3095-1-7-1-7-0-6"
-         style="fill:#103a51;fill-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3097-1-2-2-1-3-3"
-         y="804.72437"
-         x="1010"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-         xml:space="preserve"><tspan
-           id="tspan3198-6-7-7-5-7"
-           y="804.72437"
-           x="1010"
-           sodipodi:role="line">#3</tspan></text>
-    </g>
-    <g
-       id="g4096"
-       transform="translate(1400,-230)">
-      <rect
-         y="554.72437"
-         x="1140"
-         height="70"
-         width="120"
-         id="rect3095-1-7-1-7-0-71"
-         style="fill:#103a51;fill-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3097-1-2-2-1-3-2-7-6"
-         y="594.72437"
-         x="1160"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-         xml:space="preserve"><tspan
-           id="tspan3198-6-7-7-5-3-6-7"
-           y="594.72437"
-           x="1160"
-           sodipodi:role="line">#0</tspan></text>
-    </g>
-    <g
-       id="g4101"
-       transform="translate(1400,-230)">
-      <rect
-         y="624.72437"
-         x="1140"
-         height="70"
-         width="120"
-         id="rect3095-1-7-1-7-0-7-4"
-         style="fill:#103a51;fill-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3097-1-2-2-1-3-2-4"
-         y="664.72437"
-         x="1160"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-         xml:space="preserve"><tspan
-           id="tspan3198-6-7-7-5-3-1"
-           y="664.72437"
-           x="1160"
-           sodipodi:role="line">#1</tspan></text>
-    </g>
-    <g
-       id="g4106"
-       transform="translate(1400,-230)">
-      <rect
-         y="694.72437"
-         x="1140"
-         height="70"
-         width="120"
-         id="rect3095-1-7-1-7-0-1-7"
-         style="fill:#103a51;fill-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3097-1-2-2-1-3-0-2"
-         y="734.72437"
-         x="1160"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-         xml:space="preserve"><tspan
-           id="tspan3198-6-7-7-5-5-8"
-           y="734.72437"
-           x="1160"
-           sodipodi:role="line">#2</tspan></text>
-    </g>
-    <g
-       id="g4111"
-       transform="translate(1400,-230)">
-      <rect
-         y="764.72437"
-         x="1140"
-         height="70"
-         width="120"
-         id="rect3095-1-7-1-7-0-6-1"
-         style="fill:#103a51;fill-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3097-1-2-2-1-3-3-4"
-         y="804.72437"
-         x="1160"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-         xml:space="preserve"><tspan
-           id="tspan3198-6-7-7-5-7-0"
-           y="804.72437"
-           x="1160"
-           sodipodi:role="line">#3</tspan></text>
-    </g>
     <g
        id="FC-1">
       <rect
@@ -4646,64 +4095,669 @@
          xml:space="preserve"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00aa00;fill-opacity:1;stroke:none;font-family:Azuro;-inkscape-font-specification:Azuro"
          x="1710"
-         y="555.72437"
+         y="554.72437"
          id="text3206-3-5-6-9-5"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            x="1710"
-           y="555.72437"
+           y="554.72437"
            id="tspan3117-5-8-5-7">Map(1 -&gt; 'a')</tspan><tspan
            id="tspan5923-0-3"
            sodipodi:role="line"
            x="1710"
-           y="565.72437">    .map(e =&gt; (e._1+1, e._2))</tspan><tspan
+           y="564.72437">    .map(e =&gt; (e._1+1, e._2))</tspan><tspan
            id="tspan6066-9"
            sodipodi:role="line"
            x="1710"
-           y="575.72437" /><tspan
+           y="574.72437" /><tspan
            sodipodi:role="line"
            x="1710"
-           y="585.72437"
+           y="584.72437"
            id="tspan4014-1-7-0" /><tspan
            sodipodi:role="line"
            x="1710"
-           y="595.72437"
+           y="594.72437"
            id="tspan4016-6-3-86" /><tspan
            sodipodi:role="line"
            x="1710"
-           y="605.72437"
+           y="604.72437"
            id="tspan4018-5-3-44" /></text>
       <text
          xml:space="preserve"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00aa00;fill-opacity:1;stroke:none;font-family:Azuro;-inkscape-font-specification:Azuro"
          x="1710"
-         y="580.72437"
+         y="579.72437"
          id="text3206-3-5-6-9-8-8"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            x="1710"
-           y="580.72437"
+           y="579.72437"
            id="tspan3117-5-8-5-9-6">Map(1 -&gt; 'a')</tspan><tspan
            id="tspan5923-0-1-7"
            sodipodi:role="line"
            x="1710"
-           y="590.72437">    .map { case (k, v) =&gt; (k+1, v)}</tspan><tspan
+           y="589.72437">    .map { case (k, v) =&gt; (k+1, v)}</tspan><tspan
            id="tspan6066-8-2"
            sodipodi:role="line"
            x="1710"
-           y="600.72437" /><tspan
+           y="599.72437" /><tspan
            sodipodi:role="line"
            x="1710"
-           y="610.72437"
+           y="609.72437"
            id="tspan4014-1-7-2-2" /><tspan
            sodipodi:role="line"
            x="1710"
-           y="620.72437"
+           y="619.72437"
            id="tspan4016-6-3-8-9" /><tspan
            sodipodi:role="line"
            x="1710"
-           y="630.72437"
+           y="629.72437"
            id="tspan4018-5-3-4-2" /></text>
+    </g>
+    <g
+       id="LI-0">
+      <rect
+         y="329.72437"
+         x="1845"
+         height="60"
+         width="110"
+         id="rect3113-6-9-2-1-0"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3206-3-5-6-1"
+         y="344.72437"
+         x="1850"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Azuro;-inkscape-font-specification:Azuro"
+         xml:space="preserve"><tspan
+           id="tspan4018-5-1"
+           y="344.72437"
+           x="1850"
+           sodipodi:role="line">def foo(value: Float) = value</tspan><tspan
+           id="tspan6341"
+           y="354.72437"
+           x="1850"
+           sodipodi:role="line">foo(123456789)</tspan></text>
+    </g>
+    <g
+       id="EN-0">
+      <rect
+         y="324.72433"
+         x="1980"
+         height="70"
+         width="120"
+         id="rect3095-1-7-1-7-0-9-0-3-7-1-2"
+         style="fill:#103a51;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-0-6-5-9-9-4"
+         y="339.72437"
+         x="1985"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan3198-6-2-1-3-9-6-0"
+           y="339.72437"
+           x="1985"
+           sodipodi:role="line">Three approaches:</tspan><tspan
+           id="tspan6444"
+           y="352.22437"
+           x="1985"
+           sodipodi:role="line">    1. scala.Enumeration</tspan><tspan
+           id="tspan6450"
+           y="364.72437"
+           x="1985"
+           sodipodi:role="line">    2. sealed trait/case objects</tspan><tspan
+           id="tspan6448"
+           y="377.22437"
+           x="1985"
+           sodipodi:role="line">    3. javac</tspan></text>
+    </g>
+    <g
+       id="EN-1">
+      <rect
+         y="394.72433"
+         x="1980"
+         height="70"
+         width="120"
+         id="rect3095-1-7-1-7-0-7-9-6-0-5-8-6"
+         style="fill:#103a51;fill-opacity:1" />
+      <rect
+         y="399.72437"
+         x="1985"
+         height="60"
+         width="110"
+         id="rect3113-6-9-2-1-0-6"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3206-3-5-6-1-1"
+         y="414.72437"
+         x="1990"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Azuro;-inkscape-font-specification:Azuro"
+         xml:space="preserve"><tspan
+           id="tspan6341-5"
+           y="414.72437"
+           x="1990"
+           sodipodi:role="line">@enum</tspan><tspan
+           id="tspan6494"
+           y="424.72437"
+           x="1990"
+           sodipodi:role="line">class Week {</tspan><tspan
+           id="tspan6496"
+           y="434.72437"
+           x="1990"
+           sodipodi:role="line">    Mon, Tue, Wed, Thu, Fri,</tspan><tspan
+           id="tspan6498"
+           y="444.72437"
+           x="1990"
+           sodipodi:role="line">    Sat, Sun</tspan><tspan
+           id="tspan6500"
+           y="454.72437"
+           x="1990"
+           sodipodi:role="line">}</tspan></text>
+    </g>
+    <g
+       id="LI-1">
+      <rect
+         y="394.72437"
+         x="1840"
+         height="70"
+         width="120"
+         id="rect3095-1-7-1-7-0-7-4"
+         style="fill:#103a51;fill-opacity:1" />
+      <rect
+         y="399.72437"
+         x="1845"
+         height="45"
+         width="110"
+         id="rect3113-6-9-2-1-0-7"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3206-3-5-6-1-8"
+         y="414.72437"
+         x="1850"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Azuro;-inkscape-font-specification:Azuro"
+         xml:space="preserve"><tspan
+           id="tspan4018-5-1-5"
+           y="414.72437"
+           x="1850"
+           sodipodi:role="line">def foo(value: Float) = value</tspan><tspan
+           id="tspan6341-7"
+           y="424.72437"
+           x="1850"
+           sodipodi:role="line">foo(123456789)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3206-3-5-6-1-8-4"
+         y="439.72437"
+         x="1850"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Azuro;-inkscape-font-specification:Azuro"
+         xml:space="preserve"><tspan
+           id="tspan6341-7-2"
+           y="439.72437"
+           x="1850"
+           sodipodi:role="line">res0: Float = 123456792</tspan></text>
+    </g>
+    <g
+       id="LI-2">
+      <rect
+         y="464.72437"
+         x="1840"
+         height="70"
+         width="120"
+         id="rect3095-1-7-1-7-0-1-7"
+         style="fill:#103a51;fill-opacity:1" />
+      <rect
+         y="469.72437"
+         x="1845"
+         height="45"
+         width="110"
+         id="rect3113-6-9-2-1-0-7-7"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3206-3-5-6-1-8-1"
+         y="484.72437"
+         x="1850"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Azuro;-inkscape-font-specification:Azuro"
+         xml:space="preserve"><tspan
+           id="tspan4018-5-1-5-5"
+           y="484.72437"
+           x="1850"
+           sodipodi:role="line">def foo(value: Float) = value</tspan><tspan
+           id="tspan6341-7-0"
+           y="494.72437"
+           x="1850"
+           sodipodi:role="line">foo(123456789)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3206-3-5-6-1-8-4-1"
+         y="509.72437"
+         x="1850"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Azuro;-inkscape-font-specification:Azuro"
+         xml:space="preserve"><tspan
+           id="tspan6341-7-2-5"
+           y="509.72437"
+           x="1850"
+           sodipodi:role="line">res0: Float = 123456792</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-0-6-5-9-9-4-8-5"
+         y="529.72437"
+         x="1845"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan6448-5-1"
+           y="529.72437"
+           x="1845"
+           sodipodi:role="line">scalac -Ywarn-numeric-widen</tspan></text>
+    </g>
+    <g
+       id="EN-2">
+      <rect
+         y="464.72433"
+         x="1980"
+         height="70"
+         width="120"
+         id="rect3095-1-7-1-7-0-1-0-4-1-5-3-4"
+         style="fill:#103a51;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-0-6-5-9-9-4-9"
+         y="479.72437"
+         x="1985"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan3198-6-2-1-3-9-6-0-4"
+           y="479.72437"
+           x="1985"
+           sodipodi:role="line">Two approaches left:</tspan><tspan
+           id="tspan6450-4"
+           y="492.22437"
+           x="1985"
+           sodipodi:role="line">    1. sealed trait/case objects</tspan><tspan
+           id="tspan6448-1"
+           y="504.72437"
+           x="1985"
+           sodipodi:role="line">    3. @enum macro</tspan></text>
+    </g>
+    <g
+       id="MO">
+      <rect
+         y="304.72437"
+         x="2640"
+         height="90"
+         width="120"
+         id="rect3095-1-7-3-7-1-8-0"
+         style="fill:#103a51;fill-opacity:1" />
+      <rect
+         y="324.72433"
+         x="2640"
+         height="70"
+         width="120"
+         id="rect3095-1-7-1-7-0-9-0-3-7-1-7"
+         style="fill:#103a51;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-0-6-5-9-90"
+         y="319.72437"
+         x="2645"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan3198-6-2-1-3-9-1"
+           y="319.72437"
+           x="2645"
+           sodipodi:role="line">And more ...</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-0-6-5-9-9-4-6"
+         y="339.72437"
+         x="2645"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan6448-18"
+           y="339.72437"
+           x="2645"
+           sodipodi:role="line">– Generic classOf[T]</tspan><tspan
+           id="tspan6718"
+           y="352.22437"
+           x="2645"
+           sodipodi:role="line">– Non-eager collections</tspan><tspan
+           id="tspan6720"
+           y="364.72437"
+           x="2645"
+           sodipodi:role="line">– Constant inlining</tspan><tspan
+           id="tspan6722"
+           y="377.22437"
+           x="2645"
+           sodipodi:role="line">– HList-based tuples</tspan><tspan
+           id="tspan6724"
+           y="389.72437"
+           x="2645"
+           sodipodi:role="line">– Union types</tspan></text>
+    </g>
+    <g
+       id="DI-0">
+      <rect
+         y="324.72433"
+         x="2120"
+         height="70"
+         width="120"
+         id="rect3095-1-7-1-7-0-9-0-3-7-1-9"
+         style="fill:#103a51;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-0-6-5-9-9-4-2"
+         y="339.72437"
+         x="2125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan6444-0"
+           y="339.72437"
+           x="2125"
+           sodipodi:role="line">– scala._</tspan><tspan
+           id="tspan6450-0"
+           y="352.22437"
+           x="2125"
+           sodipodi:role="line">– scala.Predef</tspan><tspan
+           id="tspan6448-8"
+           y="364.72437"
+           x="2125"
+           sodipodi:role="line">– java.lang.*</tspan></text>
+    </g>
+    <g
+       id="DI-1">
+      <rect
+         y="394.72433"
+         x="2120"
+         height="70"
+         width="120"
+         id="rect3095-1-7-1-7-0-7-9-6-0-5-8-4"
+         style="fill:#103a51;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-0-6-5-9-9-4-2-9"
+         y="409.72437"
+         x="2125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan6797"
+           y="409.72437"
+           x="2125"
+           sodipodi:role="line">Useless:  </tspan><tspan
+           id="tspan6448-8-2"
+           y="422.22437"
+           x="2125"
+           sodipodi:role="line">    – java.lang.Float</tspan><tspan
+           id="tspan6860"
+           y="434.72437"
+           x="2125"
+           sodipodi:role="line">    – java.lang.Double</tspan><tspan
+           id="tspan6858"
+           y="447.22437"
+           x="2125"
+           sodipodi:role="line">    – java.lang.Void</tspan></text>
+    </g>
+    <g
+       id="DI-2">
+      <rect
+         y="464.72433"
+         x="2120"
+         height="70"
+         width="120"
+         id="rect3095-1-7-1-7-0-1-0-4-1-5-3-6"
+         style="fill:#103a51;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-0-6-5-9-9-4-2-9-5"
+         y="479.72437"
+         x="2125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan6450-0-7-0"
+           y="479.72437"
+           x="2125"
+           sodipodi:role="line">Broken:</tspan><tspan
+           id="tspan6864"
+           y="492.22437"
+           x="2125"
+           sodipodi:role="line">    – java.lang.Compiler</tspan><tspan
+           id="tspan6448-8-2-4"
+           y="504.72437"
+           x="2125"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       id="DI-3">
+      <rect
+         y="534.72437"
+         x="2120"
+         height="70"
+         width="120"
+         id="rect3095-1-7-1-7-0-6-7-9-6-8-2-3"
+         style="fill:#103a51;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-0-6-5-9-9-4-2-9-0"
+         y="549.72437"
+         x="2125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan6448-8-2-3"
+           y="549.72437"
+           x="2125"
+           sodipodi:role="line">Dangerous:</tspan><tspan
+           id="tspan6870"
+           y="562.22437"
+           x="2125"
+           sodipodi:role="line">    – java.lang.Thread</tspan></text>
+    </g>
+    <g
+       id="AV-0">
+      <rect
+         y="324.72437"
+         x="2260"
+         height="70"
+         width="120"
+         id="rect3095-1-7-1-7-0-73"
+         style="fill:#103a51;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-2-1-3-2-7-0"
+         y="344.72437"
+         x="2270"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan3198-6-7-7-5-3-6-4"
+           y="344.72437"
+           x="2270"
+           sodipodi:role="line">JVM-compatible runtime</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         x="2270"
+         y="359.72437"
+         id="text3097-1-2-2-1-3-2-7-0-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="2270"
+           y="359.72437"
+           id="tspan3198-6-7-7-5-3-6-4-2">JIT and AOT compilation</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         x="2270"
+         y="374.72437"
+         id="text3097-1-2-2-1-3-2-7-0-2-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="2270"
+           y="374.72437"
+           id="tspan3198-6-7-7-5-3-6-4-2-2">Small, native executables</tspan></text>
+    </g>
+    <g
+       id="AV-1">
+      <rect
+         y="394.72437"
+         x="2260"
+         height="70"
+         width="120"
+         id="rect3095-1-7-1-7-0-7-5"
+         style="fill:#103a51;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-2-1-3-2-7-0-5"
+         y="414.72437"
+         x="2270"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan3198-6-7-7-5-3-6-4-29"
+           y="414.72437"
+           x="2270"
+           sodipodi:role="line">Proper tail calls</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         x="2270"
+         y="429.72437"
+         id="text3097-1-2-2-1-3-2-7-0-2-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="2270"
+           y="429.72437"
+           id="tspan3198-6-7-7-5-3-6-4-2-5">Continuations</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         x="2270"
+         y="444.72437"
+         id="text3097-1-2-2-1-3-2-7-0-2-0-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="2270"
+           y="444.72437"
+           id="tspan3198-6-7-7-5-3-6-4-2-2-5">Small code base</tspan></text>
+    </g>
+    <g
+       id="AV-2">
+      <rect
+         y="464.72437"
+         x="2260"
+         height="70"
+         width="120"
+         id="rect3095-1-7-1-7-0-1-6"
+         style="fill:#103a51;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3097-1-2-2-1-3-2-7-0-5-3"
+         y="484.72437"
+         x="2270"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         xml:space="preserve"><tspan
+           id="tspan3198-6-7-7-5-3-6-4-29-3"
+           y="484.72437"
+           x="2270"
+           sodipodi:role="line">Nightly testing</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         x="2270"
+         y="499.72437"
+         id="text3097-1-2-2-1-3-2-7-0-2-1-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="2270"
+           y="499.72437"
+           id="tspan3198-6-7-7-5-3-6-4-2-5-0">SBT support</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         x="2270"
+         y="514.72437"
+         id="text3097-1-2-2-1-3-2-7-0-2-0-2-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="2270"
+           y="514.72437"
+           id="tspan3198-6-7-7-5-3-6-4-2-2-5-4">Pre-built artifacts</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+         x="2270"
+         y="529.72437"
+         id="text3097-1-2-2-1-3-2-7-0-2-0-2-1-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="2270"
+           y="529.72437"
+           id="tspan3198-6-7-7-5-3-6-4-2-2-5-4-6">Online compiler</tspan></text>
+    </g>
+    <g
+       id="CONCLUSION">
+      <rect
+         style="fill:#e35758;fill-opacity:1"
+         id="APPROACH-6"
+         width="120"
+         height="90"
+         x="2999.9998"
+         y="244.72443" />
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy"
+         x="3010"
+         y="264.72437"
+         id="text3097-33-1-7-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="3010"
+           y="264.72437"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy"
+           id="tspan3188-1-1-8">Conclusion</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy"
+         x="3010"
+         y="284.72437"
+         id="text3097-33-1-7-1-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="3010"
+           y="284.72437"
+           style="font-size:7px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy"
+           id="tspan3188-1-1-8-8"></tspan><tspan
+           id="tspan7362"
+           sodipodi:role="line"
+           x="3010"
+           y="293.47437"
+           style="font-size:7px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy">A Lot has been Done.</tspan><tspan
+           id="tspan7317"
+           sodipodi:role="line"
+           x="3010"
+           y="302.22437"
+           style="font-size:7px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy" /><tspan
+           id="tspan7319"
+           sodipodi:role="line"
+           x="3010"
+           y="310.97437"
+           style="font-size:7px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy">Keep Looking for</tspan><tspan
+           id="tspan7321"
+           sodipodi:role="line"
+           x="3010"
+           y="319.72437"
+           style="font-size:7px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy">Future Opportunities.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy"
+         x="3010"
+         y="274.72437"
+         id="text3097-33-1-7-1-5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="3010"
+           y="274.72437"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Eveleth;-inkscape-font-specification:Eveleth Heavy"
+           id="tspan3188-1-1-8-6">Simplifying SCALA</tspan></text>
     </g>
   </g>
 </svg>

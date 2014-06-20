@@ -73,7 +73,7 @@ object Presentation {
     FadeAndSlide("FC-1", "FC-2", 2),
 
     PanAndZoom("PRESENT"),
-    
+
     PanAndZoom("PASTPRESENT"),
 
     PanAndZoom("PS"),
@@ -83,7 +83,7 @@ object Presentation {
     FadeAndSlideDown("PS-3", "PS-4", 4),
     FadeAndSlideDown("PS-4", "PS-5", 5),
     FadeAndSlideDown("PS-5", "PS-6", 6),
-    
+
     PanAndZoom("PASTPRESENT"),
 
     PanAndZoom("VB"),
@@ -94,42 +94,63 @@ object Presentation {
     FadeAndSlide("VB-4", "VB-5", 5),
 
     PanAndZoom("FUTURE"),
-    
+
     PanAndZoom("TP"),
     FadeAndSlide("TP-0", "TP-1", 1),
     FadeAndSlide("TP-1", "TP-2", 2),
     FadeAndSlide("TP-2", "TP-3", 3),
 
+    PanAndZoom("LI"),
+    FadeAndSlide("LI-0", "LI-1", 1),
+    FadeAndSlide("LI-1", "LI-2", 2),
+
+    PanAndZoom("EN"),
+    FadeAndSlide("EN-0", "EN-1", 1),
+    FadeAndSlide("EN-1", "EN-2", 2),
+
+    PanAndZoom("DI"),
+    FadeAndSlide("DI-0", "DI-1", 1),
+    FadeAndSlide("DI-1", "DI-2", 2),
+    FadeAndSlide("DI-2", "DI-3", 3),
+
+    PanAndZoom("AV"),
+    FadeAndSlide("AV-0", "AV-1", 1),
+    FadeAndSlide("AV-1", "AV-2", 2),
+    FadeAndSlide("AV-2", "AV-3", 3),
+    PanAndZoom("MO"),
+
+    PanAndZoom("CONCLUSION"),
 
     PanAndZoom("THANKS"),
     PanAndZoom("QUESTIONS"),
     PanAndZoom("END"),
+    PanAndZoom("ARROW"))
 
-    //PanAndZoom("rect3095-1-7-1"), // Procedures
-    FadeAndSlide("g3609", "g3601", 1),
-    FadeAndSlide("g3601", "g3593", 2),
-    FadeAndSlide("g3593", "g3585", 3),
-
-    // View Bounds
-
-    //PanAndZoom("rect3095-1-7-1-7"), // Constant Inlining
-    FadeAndSlide("g3333", "g3338", 1),
-    FadeAndSlide("g3338", "g3343", 2),
-    FadeAndSlide("g3343", "g3348", 3),
-
-    //PanAndZoom("rect3095-1-7-1-7-4"), // Lossy Implicits
-    FadeAndSlide("g3424", "g3432", 1),
-    FadeAndSlide("g3432", "g3440", 2),
-    FadeAndSlide("g3440", "g3448", 3),
-
-    //PanAndZoom("rect3095-1-7-1-7-6"), // Avian
-    FadeAndSlide("g3456", "g3464", 1),
-    FadeAndSlide("g3464", "g3472", 2),
-    FadeAndSlide("g3472", "g3480", 3),
-
-    PanAndZoom("rect3095-7"),
-    PanAndZoom("rect3095-7-6"),
-    PanAndZoom("svg2"))
+  //    //PanAndZoom("rect3095-1-7-1"), // Procedures
+  //    FadeAndSlide("g3609", "g3601", 1),
+  //    FadeAndSlide("g3601", "g3593", 2),
+  //    FadeAndSlide("g3593", "g3585", 3),
+  //
+  //    // View Bounds
+  //
+  //    //PanAndZoom("rect3095-1-7-1-7"), // Constant Inlining
+  //    FadeAndSlide("g3333", "g3338", 1),
+  //    FadeAndSlide("g3338", "g3343", 2),
+  //    FadeAndSlide("g3343", "g3348", 3),
+  //
+  //    //PanAndZoom("rect3095-1-7-1-7-4"), // Lossy Implicits
+  //    FadeAndSlide("g3424", "g3432", 1),
+  //    FadeAndSlide("g3432", "g3440", 2),
+  //    FadeAndSlide("g3440", "g3448", 3),
+  //
+  //    //PanAndZoom("rect3095-1-7-1-7-6"), // Avian
+  //    FadeAndSlide("g3456", "g3464", 1),
+  //    FadeAndSlide("g3464", "g3472", 2),
+  //    FadeAndSlide("g3472", "g3480", 3),
+  //
+  //    PanAndZoom("rect3095-7"),
+  //    PanAndZoom("rect3095-7-6"),
+  //    PanAndZoom("svg2"))
 
   var currentAction = 0
 
